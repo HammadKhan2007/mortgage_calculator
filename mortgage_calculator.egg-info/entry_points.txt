@@ -1,0 +1,2 @@
+[console_scripts]
+mortgage-calculator = mortgage_calculator.cli:main
